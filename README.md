@@ -1,12 +1,12 @@
 # CODTECH IT SOLUTIONS Software Developer Internship Projects
 
-This repository contains the projects and assignments completed during my internship with **CODTECH IT Solutions**. The purpose of this repository is to document and showcase the work I completed as Software Developer intern as a part of real‑world tasks assigned during the internship. Throughout the internship, I worked on multiple practical projects that helped strengthen my skills in web development, programming and problem‑solving.
+This repository contains the projects and assignments completed during my software development internship with **CODTECH IT Solutions**. The purpose of this repository is to document and showcase the work I completed as Software Developer intern as a part of real‑world tasks assigned during the internship. Throughout the internship, I worked on multiple practical projects that helped strengthen my skills in web development, programming and problem‑solving.
 
 ---
 
 ## About the Internship
 
-This repository holds all tasks completed during my internship at **CODTECH IT Solutions**. The internship followed a task‑based learning approach, where each assignment focused on applying technical concepts to build functional, real‑world applications. The experience helped me gain hands‑on exposure to software development practices, version control, and structured project delivery.
+This repository holds all tasks completed during my software development internship at **CODTECH IT Solutions**. The internship followed a task‑based learning approach, where each assignment focused on applying technical concepts to build functional, real‑world applications. The experience helped me gain hands‑on exposure to software development practices, version control, and structured project delivery.
 
 ---
 
